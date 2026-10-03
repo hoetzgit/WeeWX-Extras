@@ -10,6 +10,7 @@ repos = ['weewx-gw1000',
          
          'weewx-celestial',
          'weewx-loopdata',
+         'weewx-nws',
          'weewx-skyfield',
 
          'weewx-extensions/aqi-xtype',
